@@ -2,9 +2,9 @@
 setlocal EnableDelayedExpansion
 
 rem ===== 配置区 =====
-set "SV2V=C:\Projects\sv2v-Windows\sv2v-Windows\sv2v.exe"
-set "SRC_DIR=C:\Projects\pex8749_bmc-main-fork-qdd\pex8749_bmc-main\src"
-set "OUT_FILE=C:\Projects\pex8749_bmc-main-fork-qdd\pex8749_bmc-main\src\out.v"
+set "SV2V=C:\Path\sv2v-Windows\sv2v.exe"
+set "SRC_DIR=C:\Path\src"
+set "OUT_FILE=C:\Path\src\out.v"
 
 rem ===== 收集所有 .sv 文件 =====
 set FILES=
