@@ -1,2 +1,2 @@
 # tools
-del tools
+dev tools
